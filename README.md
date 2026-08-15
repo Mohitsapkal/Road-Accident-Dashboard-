@@ -38,7 +38,7 @@ years.
 > Add the exported dashboard image to the repository as
 > `assets/dashboard.png` and keep the following image reference.
 
-![Road Accident Dashboard](assets/dashboard.png)
+![Road Accident Dashboard](assets/Dashboard.png)
 
 ------------------------------------------------------------------------
 
